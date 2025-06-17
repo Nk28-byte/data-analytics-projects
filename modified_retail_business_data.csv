@@ -1,0 +1,1001 @@
+Transaction_ID,Category,Sub_Category,Region,Month,Sales,Profit,Inventory_Days
+TXN1001,Technology,Computers,North,Jan,1371.39,263.59,102
+TXN1002,Technology,Phones,South,Aug,1168.46,251.98,94
+TXN1003,Furniture,Bookcases,West,Jan,134.87,10.69,103
+TXN1004,Technology,Computers,South,Jun,590.2,-85.04,87
+TXN1005,Office Supplies,Pens,North,Oct,1828.08,-90.39,114
+TXN1006,Furniture,Tables,East,Dec,1262.4,141.59,36
+TXN1007,Office Supplies,Pens,South,Dec,579.25,-13.84,77
+TXN1008,Clothing,Shirts,East,May,1163.23,253.77,113
+TXN1009,Office Supplies,Pens,North,Mar,322.0,-3.79,101
+TXN1010,Clothing,Shoes,North,Nov,117.31,30.47,67
+TXN1011,Clothing,Jeans,South,Aug,1634.3,-307.39,17
+TXN1012,Office Supplies,Paper,North,Jan,1765.34,221.83,35
+TXN1013,Furniture,Bookcases,West,Jan,694.07,10.37,12
+TXN1014,Clothing,Shirts,North,Feb,1903.38,-226.6,90
+TXN1015,Furniture,Chairs,South,Jul,619.71,0.0,22
+TXN1016,Clothing,Shirts,West,Apr,1121.87,17.82,25
+TXN1017,Furniture,Bookcases,South,May,1041.92,-170.59,34
+TXN1018,Office Supplies,Paper,North,Sep,1492.36,335.52,14
+TXN1019,Technology,Computers,South,Jul,1851.96,399.07,36
+TXN1020,Clothing,Shoes,West,Feb,835.35,2.12,72
+TXN1021,Furniture,Chairs,South,Mar,515.15,-71.51,118
+TXN1022,Office Supplies,Pens,East,Jan,966.44,169.95,74
+TXN1023,Technology,Phones,North,May,1933.32,-54.41,102
+TXN1024,Furniture,Bookcases,West,Nov,1249.08,260.5,61
+TXN1025,Clothing,Jeans,West,Jan,457.28,42.33,18
+TXN1026,Clothing,Shoes,West,Oct,1722.14,197.71,97
+TXN1027,Clothing,Shoes,South,Apr,1082.05,-109.31,86
+TXN1028,Clothing,Shirts,North,Sep,1185.12,64.98,104
+TXN1029,Clothing,Jeans,South,Aug,678.03,-127.42,69
+TXN1030,Office Supplies,Binders,East,Jun,1993.82,-90.26,114
+TXN1031,Furniture,Chairs,North,Jul,178.04,8.53,75
+TXN1032,Furniture,Tables,North,Mar,1255.21,134.41,106
+TXN1033,Office Supplies,Binders,East,Dec,345.89,59.87,113
+TXN1034,Furniture,Tables,East,Aug,1608.92,-2.72,20
+TXN1035,Clothing,Shirts,East,Jan,1767.72,-71.92,35
+TXN1036,Clothing,Shirts,West,Oct,636.68,-126.44,79
+TXN1037,Furniture,Chairs,North,Dec,1677.58,-158.4,16
+TXN1038,Office Supplies,Paper,South,May,1120.02,-3.43,83
+TXN1039,Clothing,Jeans,North,Dec,90.95,-16.08,75
+TXN1040,Technology,Accessories,North,Apr,1470.99,-146.36,92
+TXN1041,Clothing,Shoes,East,Sep,1016.74,56.78,88
+TXN1042,Office Supplies,Pens,North,Mar,1697.51,13.69,114
+TXN1043,Technology,Phones,South,Jun,1451.45,118.91,14
+TXN1044,Furniture,Tables,South,Oct,1916.27,338.84,22
+TXN1045,Office Supplies,Paper,North,Mar,727.94,-26.3,52
+TXN1046,Furniture,Bookcases,South,Dec,1250.37,-127.39,44
+TXN1047,Furniture,Chairs,West,Mar,1315.32,206.43,17
+TXN1048,Furniture,Chairs,South,Jan,827.02,-121.22,36
+TXN1049,Technology,Phones,West,Dec,542.78,-52.41,11
+TXN1050,Furniture,Tables,South,Dec,842.24,196.1,82
+TXN1051,Furniture,Tables,East,Jul,1224.83,346.57,107
+TXN1052,Clothing,Shirts,South,Sep,840.55,-78.22,103
+TXN1053,Office Supplies,Paper,South,May,1249.86,287.84,53
+TXN1054,Clothing,Shoes,South,Jul,1335.19,316.95,38
+TXN1055,Office Supplies,Pens,East,Jul,588.82,172.89,41
+TXN1056,Technology,Computers,East,Feb,429.81,-42.41,42
+TXN1057,Office Supplies,Pens,South,Sep,1946.46,385.67,98
+TXN1058,Technology,Accessories,East,Feb,878.63,240.25,92
+TXN1059,Technology,Accessories,West,Dec,1390.88,351.34,117
+TXN1060,Clothing,Jeans,South,Apr,1386.79,210.13,92
+TXN1061,Office Supplies,Binders,West,Jul,424.03,84.91,96
+TXN1062,Furniture,Bookcases,South,Jul,1123.47,-16.1,11
+TXN1063,Clothing,Shoes,West,Jun,1998.26,-6.99,35
+TXN1064,Technology,Accessories,South,Jan,874.22,258.45,68
+TXN1065,Furniture,Bookcases,South,Oct,584.12,150.75,17
+TXN1066,Technology,Phones,South,Mar,647.62,77.91,90
+TXN1067,Office Supplies,Pens,North,Jun,1785.49,364.24,22
+TXN1068,Office Supplies,Binders,East,Feb,1274.31,355.92,35
+TXN1069,Office Supplies,Paper,South,Feb,665.2,-7.79,79
+TXN1070,Clothing,Shirts,South,Sep,1333.59,30.56,41
+TXN1071,Office Supplies,Binders,West,Aug,563.08,70.62,82
+TXN1072,Office Supplies,Pens,South,Jun,1503.8,-152.98,76
+TXN1073,Technology,Accessories,West,Apr,178.85,1.13,56
+TXN1074,Clothing,Shirts,East,Oct,1384.52,200.68,25
+TXN1075,Technology,Phones,South,Jan,121.2,-17.18,16
+TXN1076,Office Supplies,Binders,East,Mar,1875.84,427.53,91
+TXN1077,Clothing,Shoes,East,Dec,1821.49,65.85,99
+TXN1078,Clothing,Shirts,West,Jan,1601.3,339.3,120
+TXN1079,Clothing,Shoes,East,Jun,1379.87,-68.46,21
+TXN1080,Furniture,Chairs,North,Nov,1281.52,-92.89,23
+TXN1081,Clothing,Shoes,East,Nov,511.67,134.85,33
+TXN1082,Clothing,Shirts,East,Mar,774.19,-85.77,107
+TXN1083,Furniture,Bookcases,North,Feb,1201.24,-50.13,60
+TXN1084,Office Supplies,Pens,North,Dec,1397.77,-63.08,22
+TXN1085,Clothing,Jeans,West,Jan,1591.55,405.9,107
+TXN1086,Technology,Accessories,West,Sep,538.8,47.05,100
+TXN1087,Technology,Accessories,West,Sep,113.16,-14.66,116
+TXN1088,Furniture,Tables,East,Oct,369.14,-17.73,77
+TXN1089,Clothing,Shoes,East,Aug,1078.57,306.1,35
+TXN1090,Clothing,Shirts,South,Oct,1792.07,444.97,16
+TXN1091,Clothing,Shoes,South,Sep,206.22,53.74,74
+TXN1092,Technology,Phones,South,Mar,305.69,22.17,73
+TXN1093,Furniture,Tables,East,Jan,209.99,-26.52,24
+TXN1094,Furniture,Chairs,South,Dec,1442.54,-22.08,19
+TXN1095,Office Supplies,Binders,West,Apr,238.49,-41.38,27
+TXN1096,Furniture,Chairs,West,Nov,680.04,-36.33,81
+TXN1097,Furniture,Bookcases,West,Sep,461.68,-55.84,83
+TXN1098,Furniture,Bookcases,West,Nov,1726.43,-137.29,113
+TXN1099,Office Supplies,Binders,East,Apr,1797.74,450.6,30
+TXN1100,Office Supplies,Paper,North,Feb,614.94,38.51,111
+TXN1101,Furniture,Tables,South,Nov,1756.94,0.37,26
+TXN1102,Furniture,Chairs,West,Apr,724.38,86.55,83
+TXN1103,Clothing,Shirts,North,Sep,1110.27,-132.74,70
+TXN1104,Furniture,Chairs,South,Jul,573.46,90.22,11
+TXN1105,Clothing,Shoes,South,May,1676.26,-184.23,53
+TXN1106,Clothing,Shirts,North,Aug,169.44,6.18,100
+TXN1107,Technology,Phones,West,Jun,1302.89,57.83,51
+TXN1108,Furniture,Chairs,East,Jan,67.3,1.92,50
+TXN1109,Technology,Phones,West,Oct,1660.55,67.68,32
+TXN1110,Technology,Phones,North,May,1346.94,22.46,105
+TXN1111,Technology,Phones,West,Apr,472.52,-3.48,65
+TXN1112,Clothing,Jeans,South,Feb,847.32,-101.89,38
+TXN1113,Furniture,Chairs,East,Jun,1102.69,81.23,11
+TXN1114,Office Supplies,Paper,South,Aug,1890.76,29.32,61
+TXN1115,Office Supplies,Pens,West,Mar,88.09,-3.7,49
+TXN1116,Technology,Computers,West,Apr,1202.99,-198.07,18
+TXN1117,Office Supplies,Pens,North,Nov,1616.57,-25.16,14
+TXN1118,Furniture,Tables,West,Apr,1880.24,-374.87,57
+TXN1119,Clothing,Jeans,West,Feb,722.89,54.05,11
+TXN1120,Technology,Phones,North,Feb,124.57,-13.44,70
+TXN1121,Furniture,Bookcases,North,Jul,1662.51,15.12,87
+TXN1122,Office Supplies,Pens,East,Sep,345.02,-1.48,23
+TXN1123,Furniture,Chairs,West,Jun,1980.35,462.28,26
+TXN1124,Furniture,Chairs,North,Oct,850.58,-49.58,84
+TXN1125,Clothing,Jeans,South,Jun,1395.3,-116.1,72
+TXN1126,Clothing,Shoes,North,Nov,1568.28,-199.56,86
+TXN1127,Clothing,Jeans,East,Apr,1473.26,338.24,104
+TXN1128,Clothing,Jeans,North,Nov,1016.56,253.12,25
+TXN1129,Clothing,Shoes,South,May,637.95,-34.45,95
+TXN1130,Furniture,Chairs,West,Aug,816.54,16.72,105
+TXN1131,Office Supplies,Pens,South,Feb,1544.46,-304.29,118
+TXN1132,Technology,Accessories,West,Mar,817.36,7.36,88
+TXN1133,Clothing,Shirts,East,Oct,427.92,126.91,67
+TXN1134,Furniture,Tables,East,Jul,770.9,102.11,79
+TXN1135,Clothing,Jeans,West,Apr,1253.81,36.73,41
+TXN1136,Technology,Phones,West,Mar,865.92,51.9,32
+TXN1137,Office Supplies,Pens,East,Jun,1708.83,419.24,21
+TXN1138,Technology,Phones,North,Aug,1908.91,480.64,23
+TXN1139,Clothing,Jeans,East,Nov,1603.11,137.4,41
+TXN1140,Office Supplies,Binders,West,Oct,379.21,0.33,53
+TXN1141,Technology,Accessories,West,Nov,491.64,141.03,94
+TXN1142,Office Supplies,Paper,South,Mar,1594.89,344.1,37
+TXN1143,Clothing,Jeans,East,Dec,118.66,12.22,117
+TXN1144,Technology,Computers,East,Jun,886.71,-130.01,26
+TXN1145,Office Supplies,Pens,West,Jun,1216.65,312.0,75
+TXN1146,Furniture,Bookcases,North,Jul,1546.27,387.25,96
+TXN1147,Technology,Accessories,North,May,508.44,150.18,31
+TXN1148,Clothing,Shoes,North,Nov,1832.63,-207.0,60
+TXN1149,Furniture,Tables,East,Jun,1529.97,-140.48,40
+TXN1150,Technology,Accessories,East,Sep,1079.36,275.58,77
+TXN1151,Office Supplies,Pens,North,Dec,1846.5,148.0,43
+TXN1152,Clothing,Shoes,North,Oct,896.53,-115.52,33
+TXN1153,Clothing,Shirts,West,Apr,328.6,4.32,85
+TXN1154,Furniture,Chairs,South,May,1404.4,386.98,51
+TXN1155,Technology,Computers,East,Aug,812.1,103.83,93
+TXN1156,Clothing,Jeans,East,Mar,1840.99,-168.41,21
+TXN1157,Technology,Computers,West,Jul,1297.46,382.82,23
+TXN1158,Technology,Phones,West,Jun,156.64,4.49,108
+TXN1159,Technology,Computers,North,Sep,1944.9,323.97,84
+TXN1160,Office Supplies,Paper,North,Feb,1435.81,259.86,15
+TXN1161,Technology,Phones,West,Feb,444.6,37.91,87
+TXN1162,Technology,Accessories,East,Mar,1919.54,-30.3,91
+TXN1163,Furniture,Tables,South,Feb,377.62,-37.51,99
+TXN1164,Clothing,Shoes,North,Jan,1069.15,-179.89,116
+TXN1165,Furniture,Bookcases,North,Sep,1262.06,145.27,22
+TXN1166,Clothing,Shirts,West,Oct,802.58,-96.81,66
+TXN1167,Technology,Computers,East,Dec,1446.79,-281.81,33
+TXN1168,Office Supplies,Binders,West,Jun,1085.72,-123.3,23
+TXN1169,Furniture,Chairs,South,Apr,265.98,-4.24,71
+TXN1170,Furniture,Bookcases,South,Jun,106.49,26.49,107
+TXN1171,Technology,Phones,South,Aug,615.31,-45.95,118
+TXN1172,Office Supplies,Paper,West,Oct,1360.06,93.04,47
+TXN1173,Clothing,Shoes,West,May,268.08,-0.77,29
+TXN1174,Office Supplies,Pens,North,Feb,1432.41,337.76,23
+TXN1175,Furniture,Bookcases,South,Jul,100.77,-5.94,50
+TXN1176,Office Supplies,Binders,East,Jun,1084.22,185.56,73
+TXN1177,Clothing,Jeans,West,Feb,1722.48,-231.22,111
+TXN1178,Clothing,Shirts,South,Apr,774.25,-110.14,80
+TXN1179,Furniture,Tables,West,Feb,98.7,-19.29,90
+TXN1180,Technology,Phones,South,Aug,1402.94,74.46,74
+TXN1181,Technology,Computers,South,Oct,352.16,-26.98,60
+TXN1182,Office Supplies,Binders,South,Jul,751.22,130.12,110
+TXN1183,Clothing,Shoes,West,Mar,1676.32,-157.59,16
+TXN1184,Office Supplies,Pens,West,Nov,1480.11,73.94,58
+TXN1185,Technology,Computers,West,May,1483.29,-210.75,52
+TXN1186,Office Supplies,Pens,West,Jul,1599.68,345.42,86
+TXN1187,Furniture,Bookcases,West,Oct,1389.85,305.93,78
+TXN1188,Technology,Accessories,West,Sep,334.55,-64.44,20
+TXN1189,Clothing,Shoes,North,Nov,1891.8,525.07,71
+TXN1190,Office Supplies,Binders,South,Jan,1110.92,138.5,46
+TXN1191,Furniture,Bookcases,North,Dec,343.53,-1.63,42
+TXN1192,Technology,Computers,West,Jan,1900.69,-201.85,72
+TXN1193,Clothing,Jeans,North,Aug,769.88,124.38,113
+TXN1194,Clothing,Shirts,East,Jul,1511.58,-6.74,80
+TXN1195,Furniture,Tables,East,Feb,429.4,55.3,58
+TXN1196,Clothing,Shirts,South,Sep,200.09,6.05,93
+TXN1197,Furniture,Chairs,West,Apr,952.54,-131.45,92
+TXN1198,Furniture,Tables,West,Mar,159.39,26.48,29
+TXN1199,Office Supplies,Paper,South,May,1937.62,-39.04,110
+TXN1200,Furniture,Bookcases,East,Nov,1412.52,-229.44,39
+TXN1201,Furniture,Chairs,South,Jun,205.84,58.25,53
+TXN1202,Office Supplies,Binders,East,Sep,1260.09,272.56,87
+TXN1203,Technology,Computers,South,Jan,543.07,44.08,104
+TXN1204,Technology,Accessories,West,Feb,1189.71,68.13,77
+TXN1205,Furniture,Tables,West,Aug,1985.65,187.58,87
+TXN1206,Furniture,Tables,West,Nov,921.24,-70.95,72
+TXN1207,Office Supplies,Binders,East,Sep,922.97,16.66,51
+TXN1208,Clothing,Jeans,North,Apr,1561.27,44.72,46
+TXN1209,Furniture,Chairs,East,Aug,1992.02,-274.62,29
+TXN1210,Office Supplies,Paper,West,Jun,1163.26,-115.76,17
+TXN1211,Office Supplies,Paper,South,Dec,55.18,13.23,106
+TXN1212,Furniture,Bookcases,North,Mar,535.8,110.7,45
+TXN1213,Technology,Accessories,South,Sep,681.6,54.65,106
+TXN1214,Clothing,Jeans,South,May,1924.34,561.65,73
+TXN1215,Clothing,Shoes,East,Jun,980.15,82.05,108
+TXN1216,Technology,Phones,West,Mar,1175.48,136.65,51
+TXN1217,Furniture,Bookcases,North,Aug,1375.16,75.61,71
+TXN1218,Furniture,Chairs,West,Jun,1144.39,248.76,21
+TXN1219,Clothing,Shoes,East,Aug,82.0,9.21,115
+TXN1220,Furniture,Chairs,East,May,1457.79,201.08,31
+TXN1221,Office Supplies,Paper,West,Dec,841.52,176.51,95
+TXN1222,Furniture,Bookcases,East,Nov,1223.67,55.03,72
+TXN1223,Clothing,Shoes,South,Jun,1757.34,477.68,117
+TXN1224,Office Supplies,Binders,East,Jan,1463.7,249.35,104
+TXN1225,Clothing,Jeans,North,Jan,1227.43,274.43,10
+TXN1226,Office Supplies,Binders,North,Jan,192.85,57.47,69
+TXN1227,Clothing,Jeans,South,Feb,868.2,-136.53,58
+TXN1228,Clothing,Shoes,South,Aug,1843.39,82.47,17
+TXN1229,Office Supplies,Binders,North,Jun,1393.9,288.44,95
+TXN1230,Furniture,Tables,North,Jun,210.1,13.72,65
+TXN1231,Furniture,Bookcases,North,Nov,1795.84,494.92,13
+TXN1232,Clothing,Shoes,East,Mar,1255.92,10.16,23
+TXN1233,Furniture,Tables,South,Mar,1784.12,-303.06,105
+TXN1234,Clothing,Shoes,South,Jun,488.45,123.62,95
+TXN1235,Office Supplies,Pens,South,May,252.29,13.79,76
+TXN1236,Technology,Accessories,East,Nov,849.78,-123.09,13
+TXN1237,Technology,Phones,North,Jul,899.04,-68.49,64
+TXN1238,Clothing,Jeans,East,Jan,144.26,38.54,10
+TXN1239,Office Supplies,Pens,West,Nov,449.75,-18.98,14
+TXN1240,Furniture,Chairs,South,Sep,1342.09,59.29,40
+TXN1241,Office Supplies,Pens,East,Dec,89.1,8.21,58
+TXN1242,Clothing,Jeans,West,Dec,868.25,67.11,120
+TXN1243,Technology,Accessories,North,Feb,1447.94,301.47,54
+TXN1244,Office Supplies,Pens,East,Dec,160.64,7.56,30
+TXN1245,Office Supplies,Pens,North,Apr,1967.47,500.97,54
+TXN1246,Furniture,Tables,East,Jul,437.72,24.28,84
+TXN1247,Furniture,Chairs,North,Oct,1886.92,-133.91,68
+TXN1248,Office Supplies,Paper,North,May,891.0,136.07,107
+TXN1249,Technology,Phones,West,Aug,1376.84,217.39,101
+TXN1250,Office Supplies,Pens,South,Apr,1460.55,78.58,97
+TXN1251,Clothing,Shirts,West,Jul,1985.35,-202.75,78
+TXN1252,Office Supplies,Paper,East,Mar,1129.76,307.58,84
+TXN1253,Office Supplies,Paper,East,Oct,277.73,-35.13,104
+TXN1254,Office Supplies,Pens,East,Jul,631.82,8.45,59
+TXN1255,Technology,Accessories,North,Jul,1110.11,40.95,37
+TXN1256,Furniture,Bookcases,East,Feb,1401.89,305.19,65
+TXN1257,Office Supplies,Paper,South,Mar,1202.33,85.34,115
+TXN1258,Clothing,Jeans,East,Jun,1808.42,363.28,37
+TXN1259,Clothing,Jeans,North,Feb,498.2,17.09,78
+TXN1260,Technology,Phones,West,Oct,557.01,92.87,61
+TXN1261,Technology,Computers,West,Nov,1073.45,-207.54,112
+TXN1262,Technology,Phones,East,Feb,1887.94,-82.02,62
+TXN1263,Technology,Phones,East,Nov,1469.8,352.83,64
+TXN1264,Furniture,Tables,East,Dec,250.76,-36.56,39
+TXN1265,Technology,Computers,North,Apr,1702.27,265.91,54
+TXN1266,Technology,Phones,North,Mar,1082.21,-141.88,11
+TXN1267,Furniture,Tables,South,Aug,1963.7,12.6,79
+TXN1268,Technology,Accessories,West,Jan,1766.51,128.94,67
+TXN1269,Office Supplies,Paper,East,Mar,172.78,-8.14,98
+TXN1270,Technology,Phones,North,Jan,785.77,189.29,30
+TXN1271,Clothing,Jeans,East,Feb,905.16,198.63,53
+TXN1272,Furniture,Tables,South,Jun,892.18,-38.49,98
+TXN1273,Furniture,Chairs,South,Jun,1113.56,-50.96,30
+TXN1274,Furniture,Bookcases,West,Jul,1548.45,432.63,72
+TXN1275,Clothing,Shirts,North,Oct,1188.92,184.51,112
+TXN1276,Clothing,Jeans,South,Oct,376.75,-28.19,23
+TXN1277,Furniture,Tables,South,Jan,1714.55,-7.81,95
+TXN1278,Technology,Accessories,East,Feb,1511.67,-225.69,63
+TXN1279,Furniture,Bookcases,South,Sep,1467.52,-271.47,37
+TXN1280,Clothing,Jeans,East,Nov,894.58,-22.34,37
+TXN1281,Office Supplies,Pens,West,Apr,927.17,25.19,60
+TXN1282,Furniture,Tables,West,May,656.99,156.11,80
+TXN1283,Clothing,Shirts,East,Sep,659.8,-33.18,10
+TXN1284,Clothing,Jeans,East,Sep,1564.15,270.52,26
+TXN1285,Office Supplies,Paper,West,Oct,642.92,135.36,49
+TXN1286,Furniture,Chairs,South,Jun,808.61,-68.96,90
+TXN1287,Office Supplies,Paper,North,Mar,1040.2,92.99,76
+TXN1288,Office Supplies,Binders,South,Dec,255.24,-36.29,75
+TXN1289,Clothing,Shirts,West,Sep,1797.85,-68.49,46
+TXN1290,Office Supplies,Paper,West,Oct,1539.66,210.56,31
+TXN1291,Office Supplies,Paper,East,Apr,1642.22,12.41,94
+TXN1292,Furniture,Tables,East,May,957.3,173.52,101
+TXN1293,Clothing,Jeans,North,Feb,1035.41,-178.33,21
+TXN1294,Furniture,Chairs,East,Mar,1415.31,414.46,29
+TXN1295,Office Supplies,Paper,North,May,1878.23,-54.06,10
+TXN1296,Clothing,Shoes,South,Apr,552.7,-62.62,92
+TXN1297,Clothing,Shoes,East,Sep,1252.5,-74.01,60
+TXN1298,Technology,Accessories,West,Jul,628.2,-115.19,52
+TXN1299,Office Supplies,Binders,South,Mar,57.9,10.51,92
+TXN1300,Furniture,Bookcases,East,Oct,1709.92,178.19,93
+TXN1301,Furniture,Tables,East,Jul,1213.83,123.27,105
+TXN1302,Technology,Accessories,West,Jan,1024.19,-56.94,34
+TXN1303,Technology,Computers,West,Mar,967.43,274.74,103
+TXN1304,Technology,Accessories,West,Oct,248.08,16.97,12
+TXN1305,Clothing,Jeans,East,May,1786.24,-272.59,76
+TXN1306,Technology,Phones,East,Nov,1447.68,192.31,108
+TXN1307,Clothing,Jeans,East,Nov,617.3,-86.16,24
+TXN1308,Clothing,Jeans,West,Aug,1612.39,428.83,26
+TXN1309,Office Supplies,Binders,North,Jun,762.34,-38.31,58
+TXN1310,Office Supplies,Paper,South,Aug,1473.76,-221.61,111
+TXN1311,Technology,Phones,South,Jun,706.72,9.97,27
+TXN1312,Clothing,Shirts,East,Sep,769.87,109.12,103
+TXN1313,Furniture,Bookcases,South,Jan,1519.39,19.6,52
+TXN1314,Furniture,Tables,South,Oct,721.92,-121.2,101
+TXN1315,Technology,Accessories,South,Sep,1586.41,329.85,100
+TXN1316,Office Supplies,Paper,South,Jun,1857.27,383.28,84
+TXN1317,Furniture,Chairs,South,Oct,877.47,27.31,96
+TXN1318,Clothing,Shirts,East,Jul,659.74,-52.05,23
+TXN1319,Technology,Accessories,East,Jun,1544.38,-88.66,44
+TXN1320,Technology,Phones,North,Jul,738.26,-108.12,77
+TXN1321,Clothing,Shoes,North,Dec,1350.29,91.37,111
+TXN1322,Office Supplies,Pens,East,Jan,1079.04,214.56,30
+TXN1323,Furniture,Bookcases,South,Feb,1182.56,261.82,40
+TXN1324,Clothing,Jeans,North,Dec,1223.66,202.51,60
+TXN1325,Furniture,Bookcases,South,Jul,404.54,-65.91,34
+TXN1326,Clothing,Shirts,East,Oct,1009.58,109.82,83
+TXN1327,Furniture,Bookcases,South,Dec,1976.23,-105.22,36
+TXN1328,Clothing,Shirts,North,Jun,1522.41,-135.49,93
+TXN1329,Technology,Phones,West,May,112.78,-4.15,71
+TXN1330,Clothing,Jeans,North,Aug,1522.97,-300.02,96
+TXN1331,Furniture,Bookcases,West,Oct,617.24,-29.67,91
+TXN1332,Furniture,Bookcases,East,Apr,912.42,2.94,57
+TXN1333,Clothing,Shoes,South,May,1253.61,92.97,115
+TXN1334,Technology,Computers,North,Jan,1967.07,16.78,54
+TXN1335,Technology,Phones,North,Mar,1703.82,260.33,96
+TXN1336,Furniture,Tables,West,Sep,1998.41,-120.7,114
+TXN1337,Furniture,Chairs,East,Feb,1191.13,57.57,79
+TXN1338,Technology,Computers,North,Apr,678.32,-112.57,51
+TXN1339,Clothing,Jeans,South,Mar,234.29,-24.39,69
+TXN1340,Furniture,Chairs,South,Jul,756.86,18.67,96
+TXN1341,Clothing,Jeans,North,Feb,1957.0,410.81,75
+TXN1342,Office Supplies,Pens,South,Sep,566.88,37.34,59
+TXN1343,Office Supplies,Paper,South,Aug,1955.56,512.28,100
+TXN1344,Technology,Computers,South,Aug,285.44,19.36,82
+TXN1345,Clothing,Jeans,West,May,173.89,-21.24,53
+TXN1346,Technology,Computers,North,Aug,692.98,133.67,48
+TXN1347,Clothing,Shirts,East,Sep,635.67,158.52,17
+TXN1348,Clothing,Shoes,West,Dec,1268.71,340.11,52
+TXN1349,Technology,Phones,East,Apr,861.32,-104.96,33
+TXN1350,Technology,Computers,West,Jul,1231.24,-29.72,56
+TXN1351,Clothing,Shirts,West,Sep,1063.15,20.76,90
+TXN1352,Clothing,Shirts,West,Nov,839.11,-56.6,89
+TXN1353,Clothing,Shoes,West,Jun,1773.43,-163.81,59
+TXN1354,Clothing,Shirts,North,Mar,1473.43,-62.67,107
+TXN1355,Furniture,Chairs,South,Apr,991.22,192.97,62
+TXN1356,Technology,Phones,North,Jul,1693.7,392.19,75
+TXN1357,Clothing,Jeans,North,Jan,444.7,97.87,39
+TXN1358,Clothing,Jeans,North,Dec,1714.84,-103.24,72
+TXN1359,Technology,Phones,West,Aug,285.95,56.78,117
+TXN1360,Technology,Computers,South,Sep,654.01,-97.48,60
+TXN1361,Furniture,Chairs,West,Mar,1052.84,238.11,88
+TXN1362,Furniture,Chairs,West,Aug,74.99,-14.05,56
+TXN1363,Furniture,Tables,North,Jul,670.97,61.92,58
+TXN1364,Furniture,Bookcases,West,Oct,194.74,-8.57,57
+TXN1365,Office Supplies,Paper,West,Jul,1543.73,-162.26,89
+TXN1366,Office Supplies,Paper,West,Mar,1935.76,-53.77,92
+TXN1367,Furniture,Bookcases,North,Jan,645.36,63.43,119
+TXN1368,Clothing,Shirts,East,Jan,832.15,84.03,120
+TXN1369,Technology,Computers,West,Oct,404.19,84.89,100
+TXN1370,Furniture,Bookcases,North,Mar,1550.87,374.5,54
+TXN1371,Furniture,Bookcases,West,Sep,237.16,-14.99,37
+TXN1372,Office Supplies,Binders,South,Dec,1307.93,211.17,106
+TXN1373,Clothing,Jeans,West,Jun,1972.17,4.82,106
+TXN1374,Furniture,Tables,West,Feb,362.58,19.43,111
+TXN1375,Clothing,Jeans,South,Jul,670.93,178.04,38
+TXN1376,Technology,Phones,South,Nov,405.56,60.99,111
+TXN1377,Clothing,Jeans,West,Apr,637.28,181.79,118
+TXN1378,Technology,Phones,West,Apr,77.73,-7.13,45
+TXN1379,Clothing,Shoes,North,Aug,169.08,40.19,93
+TXN1380,Technology,Accessories,South,Jul,225.71,8.17,27
+TXN1381,Clothing,Shirts,North,Jul,812.17,-160.8,31
+TXN1382,Furniture,Bookcases,South,Aug,140.97,-3.62,85
+TXN1383,Office Supplies,Pens,South,Jul,879.37,100.82,56
+TXN1384,Technology,Computers,North,Jan,1160.31,201.59,99
+TXN1385,Clothing,Shoes,North,Aug,264.92,17.3,80
+TXN1386,Furniture,Bookcases,West,Jul,1982.5,13.79,32
+TXN1387,Office Supplies,Pens,East,Jul,635.72,40.27,63
+TXN1388,Office Supplies,Paper,East,Feb,1793.18,432.33,100
+TXN1389,Technology,Accessories,South,Feb,1881.38,62.04,104
+TXN1390,Technology,Phones,South,Sep,622.3,-34.67,83
+TXN1391,Clothing,Shoes,North,Apr,1147.44,100.15,26
+TXN1392,Office Supplies,Binders,South,Jan,662.26,22.33,26
+TXN1393,Technology,Phones,North,Jun,1544.59,-100.97,93
+TXN1394,Office Supplies,Binders,South,Jan,911.86,52.76,97
+TXN1395,Technology,Computers,North,Jul,1739.45,-153.97,31
+TXN1396,Clothing,Shirts,North,Nov,1030.94,-13.27,37
+TXN1397,Office Supplies,Pens,East,Oct,1767.98,354.74,22
+TXN1398,Clothing,Shoes,East,Mar,1958.34,170.1,112
+TXN1399,Clothing,Shirts,West,Feb,497.83,87.94,68
+TXN1400,Office Supplies,Paper,South,Aug,184.86,-16.66,68
+TXN1401,Technology,Computers,East,Mar,546.4,-55.84,89
+TXN1402,Technology,Accessories,West,Jul,227.25,50.72,84
+TXN1403,Clothing,Shoes,East,Nov,1421.33,257.15,49
+TXN1404,Office Supplies,Pens,North,Apr,276.61,0.22,82
+TXN1405,Clothing,Shoes,South,Dec,1420.53,236.81,99
+TXN1406,Clothing,Shirts,North,May,176.21,-4.21,56
+TXN1407,Technology,Computers,East,Feb,115.06,-12.1,86
+TXN1408,Office Supplies,Binders,East,Feb,1998.99,532.63,82
+TXN1409,Office Supplies,Paper,South,Dec,1134.99,107.7,76
+TXN1410,Office Supplies,Binders,North,May,1472.87,282.55,27
+TXN1411,Furniture,Tables,South,Apr,1803.18,-343.92,20
+TXN1412,Furniture,Chairs,North,Sep,1910.41,204.68,84
+TXN1413,Clothing,Jeans,East,Jan,1554.91,-207.36,84
+TXN1414,Furniture,Chairs,West,Nov,1077.92,56.57,17
+TXN1415,Furniture,Chairs,North,Sep,1183.43,241.73,91
+TXN1416,Clothing,Shoes,North,Sep,469.53,2.72,79
+TXN1417,Clothing,Jeans,North,Dec,1967.68,-137.94,38
+TXN1418,Clothing,Shoes,East,Oct,690.69,194.99,104
+TXN1419,Clothing,Shirts,East,Apr,1332.0,136.56,25
+TXN1420,Clothing,Shoes,West,Oct,929.25,-85.51,99
+TXN1421,Office Supplies,Pens,South,Apr,1865.48,-35.79,94
+TXN1422,Clothing,Shirts,East,Aug,476.54,72.52,24
+TXN1423,Technology,Phones,South,May,873.82,-108.67,101
+TXN1424,Furniture,Bookcases,South,May,1358.11,272.67,102
+TXN1425,Furniture,Bookcases,East,Jun,514.48,-100.03,59
+TXN1426,Office Supplies,Pens,West,Feb,1415.08,-11.77,47
+TXN1427,Office Supplies,Paper,South,Aug,1305.06,88.2,64
+TXN1428,Clothing,Shoes,East,Jun,161.34,12.14,84
+TXN1429,Technology,Accessories,East,Feb,1324.88,323.31,23
+TXN1430,Technology,Computers,South,May,584.41,163.5,101
+TXN1431,Clothing,Shirts,West,Jan,1683.2,392.56,43
+TXN1432,Technology,Phones,North,Sep,600.54,122.21,43
+TXN1433,Clothing,Shoes,North,Nov,357.81,-36.99,95
+TXN1434,Clothing,Shoes,South,Mar,1431.14,58.04,72
+TXN1435,Furniture,Bookcases,West,Mar,415.93,65.64,34
+TXN1436,Technology,Computers,North,Aug,608.21,0.44,87
+TXN1437,Technology,Computers,South,Oct,1666.24,244.94,79
+TXN1438,Technology,Computers,West,Apr,1229.24,9.28,27
+TXN1439,Clothing,Jeans,West,Jul,1148.63,237.81,99
+TXN1440,Office Supplies,Pens,North,Apr,1335.29,129.53,18
+TXN1441,Clothing,Shoes,West,Nov,271.87,0.57,39
+TXN1442,Furniture,Bookcases,East,Oct,217.38,-34.53,101
+TXN1443,Office Supplies,Binders,West,Aug,1370.6,-32.42,99
+TXN1444,Technology,Accessories,East,Aug,1577.06,318.26,69
+TXN1445,Furniture,Chairs,South,Apr,1318.99,139.73,100
+TXN1446,Furniture,Bookcases,South,Nov,1301.67,-25.73,92
+TXN1447,Technology,Phones,East,Mar,1121.9,162.74,69
+TXN1448,Furniture,Chairs,East,Jun,855.74,189.77,51
+TXN1449,Office Supplies,Binders,North,Jun,919.86,271.63,101
+TXN1450,Clothing,Shoes,North,Feb,1032.27,38.92,87
+TXN1451,Office Supplies,Paper,South,Sep,233.24,-36.75,54
+TXN1452,Furniture,Chairs,East,Apr,1228.25,-80.95,43
+TXN1453,Furniture,Bookcases,West,Sep,1116.23,19.5,49
+TXN1454,Clothing,Jeans,West,Aug,725.37,181.36,25
+TXN1455,Furniture,Chairs,South,Dec,755.62,-52.5,46
+TXN1456,Furniture,Chairs,South,May,1843.12,-58.76,98
+TXN1457,Technology,Computers,North,Jan,180.61,0.46,10
+TXN1458,Furniture,Tables,West,Oct,559.88,-10.3,103
+TXN1459,Technology,Computers,West,Mar,1527.67,72.1,62
+TXN1460,Furniture,Bookcases,South,Oct,1356.13,152.69,42
+TXN1461,Furniture,Chairs,West,Jun,275.15,-5.46,34
+TXN1462,Clothing,Shirts,West,Nov,417.2,-2.91,115
+TXN1463,Office Supplies,Paper,South,May,1261.77,345.17,109
+TXN1464,Clothing,Shirts,North,Oct,907.84,269.99,21
+TXN1465,Clothing,Jeans,West,Mar,1688.09,-72.92,72
+TXN1466,Technology,Computers,West,Sep,621.78,-102.04,104
+TXN1467,Furniture,Tables,South,May,1545.17,424.3,36
+TXN1468,Technology,Accessories,West,Mar,607.68,-9.84,101
+TXN1469,Clothing,Jeans,South,Jun,961.77,188.25,115
+TXN1470,Technology,Phones,South,Dec,258.41,-50.27,56
+TXN1471,Technology,Computers,East,Nov,888.9,-140.04,52
+TXN1472,Technology,Accessories,West,Aug,1458.75,138.45,60
+TXN1473,Technology,Phones,North,Jul,1464.17,354.69,14
+TXN1474,Office Supplies,Pens,East,Jan,1511.04,-72.94,11
+TXN1475,Technology,Phones,West,Dec,1604.09,-63.02,70
+TXN1476,Office Supplies,Paper,West,Sep,1784.11,76.45,27
+TXN1477,Technology,Accessories,North,Oct,1148.59,227.38,106
+TXN1478,Furniture,Chairs,West,Nov,194.6,-2.45,18
+TXN1479,Technology,Accessories,South,May,1103.73,-38.33,64
+TXN1480,Office Supplies,Paper,North,Feb,305.45,43.15,13
+TXN1481,Technology,Accessories,North,May,1947.68,-362.13,77
+TXN1482,Furniture,Bookcases,East,Oct,1600.08,-27.75,80
+TXN1483,Clothing,Shoes,West,Dec,1338.97,305.9,78
+TXN1484,Technology,Accessories,North,Jun,1432.86,381.79,50
+TXN1485,Furniture,Tables,West,Sep,768.79,178.36,119
+TXN1486,Clothing,Jeans,South,Aug,192.87,53.21,84
+TXN1487,Office Supplies,Paper,North,Oct,844.78,234.13,53
+TXN1488,Technology,Computers,South,Aug,313.31,22.38,72
+TXN1489,Technology,Accessories,South,Aug,756.19,190.21,73
+TXN1490,Office Supplies,Binders,West,Jan,762.51,-36.83,98
+TXN1491,Clothing,Jeans,North,Aug,1668.77,-309.1,49
+TXN1492,Clothing,Shoes,North,Jun,850.3,37.42,66
+TXN1493,Technology,Computers,East,Dec,1564.59,393.64,24
+TXN1494,Technology,Accessories,North,Oct,353.32,35.45,86
+TXN1495,Clothing,Jeans,South,Oct,940.38,56.14,49
+TXN1496,Office Supplies,Pens,South,Jun,1715.54,370.77,24
+TXN1497,Technology,Computers,East,Feb,627.9,71.87,47
+TXN1498,Office Supplies,Pens,East,Aug,419.81,-68.58,48
+TXN1499,Technology,Phones,South,Feb,70.15,-12.29,78
+TXN1500,Furniture,Bookcases,North,Apr,1717.26,-296.68,57
+TXN1501,Technology,Phones,North,Sep,1726.06,-142.07,62
+TXN1502,Technology,Computers,North,Sep,1035.74,266.91,77
+TXN1503,Technology,Phones,North,Nov,1077.08,218.77,78
+TXN1504,Furniture,Tables,South,Jan,1847.95,149.83,96
+TXN1505,Office Supplies,Paper,West,Jan,297.77,8.33,120
+TXN1506,Furniture,Tables,East,Aug,1336.93,88.64,58
+TXN1507,Furniture,Tables,North,Aug,1908.32,401.04,120
+TXN1508,Furniture,Chairs,East,Dec,1400.62,384.85,85
+TXN1509,Furniture,Chairs,West,Jan,344.31,72.89,100
+TXN1510,Technology,Accessories,East,Mar,1490.4,-234.63,86
+TXN1511,Furniture,Chairs,South,Sep,936.38,-164.26,71
+TXN1512,Office Supplies,Binders,West,Jul,298.72,-56.37,61
+TXN1513,Clothing,Shoes,East,Jun,1239.15,-55.72,21
+TXN1514,Office Supplies,Paper,South,Dec,1938.97,-130.06,65
+TXN1515,Technology,Accessories,North,Dec,1093.31,-134.22,13
+TXN1516,Furniture,Tables,North,May,1360.22,380.48,119
+TXN1517,Office Supplies,Paper,South,Feb,1542.52,131.17,11
+TXN1518,Clothing,Jeans,West,Feb,277.87,-31.44,106
+TXN1519,Clothing,Shoes,South,Apr,1444.94,-169.86,29
+TXN1520,Clothing,Shoes,South,Nov,1365.04,1.3,95
+TXN1521,Furniture,Chairs,South,Mar,1600.35,132.69,64
+TXN1522,Technology,Accessories,North,Sep,1593.0,374.33,44
+TXN1523,Office Supplies,Pens,East,Nov,1402.52,-84.52,115
+TXN1524,Technology,Phones,North,Dec,750.1,-141.41,29
+TXN1525,Furniture,Tables,South,Jan,606.69,-85.79,71
+TXN1526,Clothing,Shirts,East,Sep,619.07,67.23,33
+TXN1527,Office Supplies,Binders,North,Apr,415.86,28.56,22
+TXN1528,Office Supplies,Paper,East,Aug,1780.4,-157.27,17
+TXN1529,Furniture,Chairs,North,Mar,339.59,61.62,87
+TXN1530,Technology,Phones,West,Jan,392.91,4.1,30
+TXN1531,Office Supplies,Pens,East,Feb,857.42,100.33,48
+TXN1532,Office Supplies,Binders,North,Jan,1869.29,-16.76,24
+TXN1533,Clothing,Jeans,North,Feb,964.11,235.31,106
+TXN1534,Furniture,Bookcases,East,Aug,1432.24,69.99,78
+TXN1535,Technology,Accessories,South,Dec,74.03,7.09,34
+TXN1536,Technology,Computers,South,May,1250.78,124.52,81
+TXN1537,Clothing,Jeans,South,Oct,549.6,101.14,23
+TXN1538,Technology,Phones,South,Oct,1508.69,181.51,63
+TXN1539,Office Supplies,Paper,East,Aug,586.79,20.32,114
+TXN1540,Furniture,Bookcases,West,Oct,1100.71,30.48,32
+TXN1541,Technology,Phones,South,Feb,1110.54,285.42,22
+TXN1542,Furniture,Bookcases,South,Sep,613.18,-119.58,107
+TXN1543,Technology,Phones,East,Sep,567.35,10.96,33
+TXN1544,Clothing,Shirts,West,Aug,418.51,-82.95,94
+TXN1545,Office Supplies,Pens,North,Dec,1646.87,205.02,88
+TXN1546,Clothing,Jeans,East,Dec,1540.0,405.84,89
+TXN1547,Technology,Accessories,North,May,1043.22,303.4,37
+TXN1548,Technology,Phones,East,Nov,618.14,159.13,114
+TXN1549,Office Supplies,Binders,East,Dec,243.83,7.74,69
+TXN1550,Office Supplies,Paper,West,Feb,1563.3,391.66,117
+TXN1551,Technology,Phones,North,Apr,1618.04,164.07,50
+TXN1552,Furniture,Chairs,North,Jul,689.34,80.54,10
+TXN1553,Technology,Phones,South,Mar,352.53,-12.89,57
+TXN1554,Office Supplies,Binders,West,Mar,1182.35,71.47,108
+TXN1555,Technology,Computers,North,Dec,1900.37,301.72,12
+TXN1556,Technology,Phones,East,Aug,1354.99,115.17,50
+TXN1557,Clothing,Shirts,South,Jun,1355.56,148.04,41
+TXN1558,Technology,Accessories,North,Feb,1760.67,106.28,113
+TXN1559,Clothing,Shoes,East,Sep,1253.34,-38.87,12
+TXN1560,Technology,Computers,North,Aug,366.25,-52.96,74
+TXN1561,Office Supplies,Paper,East,Nov,1693.57,126.03,61
+TXN1562,Clothing,Shirts,West,Jul,916.69,194.77,23
+TXN1563,Furniture,Chairs,East,Jan,371.46,86.96,111
+TXN1564,Clothing,Shirts,West,Apr,1790.28,-233.41,116
+TXN1565,Office Supplies,Binders,South,Sep,390.42,34.48,93
+TXN1566,Technology,Computers,East,May,591.16,-81.57,109
+TXN1567,Furniture,Tables,East,Oct,1591.35,282.19,29
+TXN1568,Clothing,Shirts,North,Dec,602.01,94.69,48
+TXN1569,Office Supplies,Paper,East,Feb,1944.78,-123.34,23
+TXN1570,Clothing,Jeans,East,Sep,98.16,5.82,42
+TXN1571,Furniture,Bookcases,West,Feb,398.93,11.62,22
+TXN1572,Furniture,Tables,South,Jun,703.28,27.62,85
+TXN1573,Technology,Phones,East,Jan,513.92,-64.61,54
+TXN1574,Clothing,Shirts,West,Oct,1338.84,210.76,63
+TXN1575,Office Supplies,Paper,West,Jan,1432.53,201.73,32
+TXN1576,Technology,Phones,West,May,1165.34,48.19,65
+TXN1577,Furniture,Tables,North,Jun,1353.38,403.69,47
+TXN1578,Clothing,Shirts,East,Nov,290.38,-1.33,15
+TXN1579,Technology,Phones,South,Jul,685.02,157.77,70
+TXN1580,Office Supplies,Pens,West,Apr,1025.48,110.55,87
+TXN1581,Clothing,Jeans,North,Dec,520.91,112.21,50
+TXN1582,Technology,Accessories,South,Oct,1183.36,210.76,30
+TXN1583,Furniture,Chairs,South,Aug,804.91,-59.65,56
+TXN1584,Technology,Accessories,North,Mar,1555.0,414.95,10
+TXN1585,Clothing,Jeans,East,Sep,1119.99,-133.41,99
+TXN1586,Furniture,Chairs,South,Jan,1977.46,352.38,78
+TXN1587,Furniture,Chairs,North,Oct,828.82,-59.24,44
+TXN1588,Technology,Computers,South,Jul,1299.54,-52.03,57
+TXN1589,Clothing,Jeans,East,Jan,1017.81,-175.28,68
+TXN1590,Furniture,Chairs,East,Aug,942.5,257.67,12
+TXN1591,Technology,Phones,West,Jan,1497.04,330.58,116
+TXN1592,Clothing,Shoes,East,Jul,1586.8,131.78,59
+TXN1593,Technology,Accessories,North,Jul,160.88,47.1,22
+TXN1594,Furniture,Bookcases,East,Jun,551.04,-87.15,120
+TXN1595,Clothing,Shoes,South,Jun,973.5,-116.75,99
+TXN1596,Technology,Accessories,North,Jan,1388.42,228.41,99
+TXN1597,Furniture,Chairs,North,Jul,140.83,-20.72,95
+TXN1598,Clothing,Jeans,South,Sep,927.37,121.18,107
+TXN1599,Furniture,Tables,South,Oct,435.5,29.02,86
+TXN1600,Technology,Computers,East,Feb,880.94,82.11,46
+TXN1601,Furniture,Bookcases,North,Jul,524.07,53.57,111
+TXN1602,Technology,Phones,North,May,524.03,-32.73,29
+TXN1603,Office Supplies,Pens,East,Oct,391.96,-1.87,36
+TXN1604,Technology,Computers,South,May,1681.08,450.2,120
+TXN1605,Office Supplies,Pens,West,Apr,577.83,-72.08,21
+TXN1606,Office Supplies,Binders,North,Nov,1633.28,467.84,78
+TXN1607,Office Supplies,Paper,West,Jul,427.86,10.97,55
+TXN1608,Technology,Phones,North,Jan,1883.57,-196.35,24
+TXN1609,Furniture,Tables,West,Jul,714.31,193.3,46
+TXN1610,Clothing,Jeans,North,Nov,646.47,164.36,45
+TXN1611,Furniture,Bookcases,South,Dec,1152.89,255.99,71
+TXN1612,Clothing,Shoes,West,Apr,524.58,-22.7,89
+TXN1613,Furniture,Chairs,North,Sep,1918.7,158.11,102
+TXN1614,Office Supplies,Pens,South,Aug,1448.36,-133.7,68
+TXN1615,Clothing,Jeans,South,Jul,513.81,-78.23,31
+TXN1616,Furniture,Chairs,West,Feb,359.99,70.79,96
+TXN1617,Clothing,Shoes,East,Sep,1995.73,394.48,103
+TXN1618,Office Supplies,Binders,West,Dec,290.68,-28.6,89
+TXN1619,Technology,Phones,West,Aug,1511.08,323.46,67
+TXN1620,Technology,Phones,South,Nov,886.9,133.53,117
+TXN1621,Furniture,Chairs,North,Jun,580.27,-49.23,65
+TXN1622,Furniture,Chairs,North,Apr,783.74,-12.27,44
+TXN1623,Furniture,Tables,South,Jun,1869.83,18.04,49
+TXN1624,Clothing,Shoes,East,Dec,156.52,29.26,16
+TXN1625,Office Supplies,Pens,North,Aug,1256.33,291.05,72
+TXN1626,Furniture,Bookcases,East,Feb,441.8,-13.21,78
+TXN1627,Furniture,Tables,South,Feb,919.63,174.62,71
+TXN1628,Office Supplies,Pens,West,Jun,1109.86,222.99,59
+TXN1629,Office Supplies,Pens,South,Mar,134.66,6.26,73
+TXN1630,Clothing,Jeans,West,Jul,553.71,50.66,36
+TXN1631,Clothing,Shirts,North,Jun,916.93,169.67,51
+TXN1632,Office Supplies,Binders,South,Nov,1069.64,-38.3,16
+TXN1633,Office Supplies,Pens,West,Oct,1406.66,40.15,96
+TXN1634,Clothing,Shirts,South,Nov,797.44,49.44,15
+TXN1635,Technology,Phones,North,Jun,812.15,-100.1,91
+TXN1636,Technology,Phones,South,Apr,744.03,-57.01,87
+TXN1637,Furniture,Chairs,North,Apr,1959.13,72.6,28
+TXN1638,Clothing,Jeans,North,Feb,1141.75,316.78,41
+TXN1639,Technology,Computers,South,May,1660.08,487.22,72
+TXN1640,Furniture,Chairs,West,Dec,739.56,185.23,93
+TXN1641,Furniture,Tables,South,Mar,1099.31,201.8,47
+TXN1642,Clothing,Shoes,East,Mar,1424.06,90.53,103
+TXN1643,Technology,Computers,East,Apr,618.88,20.71,26
+TXN1644,Office Supplies,Paper,South,Sep,1196.5,-219.04,97
+TXN1645,Clothing,Jeans,North,Dec,1622.14,-64.79,26
+TXN1646,Clothing,Jeans,West,Dec,317.32,69.49,36
+TXN1647,Technology,Phones,South,Apr,1623.63,459.08,106
+TXN1648,Furniture,Tables,West,Jan,1106.44,30.89,28
+TXN1649,Clothing,Shoes,East,Feb,510.5,85.8,70
+TXN1650,Furniture,Chairs,North,Nov,1790.36,352.53,17
+TXN1651,Technology,Accessories,West,Apr,1890.52,314.86,33
+TXN1652,Clothing,Jeans,West,Dec,454.98,50.76,21
+TXN1653,Technology,Accessories,East,Jun,1099.72,-183.79,37
+TXN1654,Technology,Accessories,North,Sep,1940.63,532.83,55
+TXN1655,Furniture,Bookcases,East,Nov,1147.59,-114.43,107
+TXN1656,Office Supplies,Pens,West,Jan,896.99,256.08,117
+TXN1657,Office Supplies,Paper,North,Sep,1684.88,364.74,94
+TXN1658,Technology,Phones,South,Mar,1564.17,322.81,99
+TXN1659,Office Supplies,Pens,East,Aug,85.96,9.52,25
+TXN1660,Furniture,Tables,South,Jan,837.64,-63.02,59
+TXN1661,Clothing,Jeans,North,May,550.12,70.15,117
+TXN1662,Clothing,Jeans,North,Sep,1976.2,-264.52,54
+TXN1663,Office Supplies,Pens,West,Mar,429.84,65.58,102
+TXN1664,Clothing,Shirts,North,Jul,1598.25,-16.34,61
+TXN1665,Furniture,Bookcases,East,May,1972.34,-212.07,46
+TXN1666,Furniture,Bookcases,South,Jun,1334.56,117.08,46
+TXN1667,Furniture,Tables,West,May,1858.7,332.48,20
+TXN1668,Furniture,Chairs,South,Apr,1844.33,-124.01,33
+TXN1669,Technology,Phones,West,Mar,951.14,10.79,86
+TXN1670,Office Supplies,Pens,North,Feb,524.01,78.37,38
+TXN1671,Technology,Accessories,South,Feb,1399.38,-136.72,44
+TXN1672,Clothing,Shoes,East,Aug,411.45,61.57,38
+TXN1673,Furniture,Tables,South,Jun,406.82,21.51,74
+TXN1674,Office Supplies,Paper,West,Oct,1847.36,-262.64,57
+TXN1675,Office Supplies,Binders,East,Dec,648.74,-55.72,55
+TXN1676,Office Supplies,Binders,East,Jun,1441.7,405.15,30
+TXN1677,Clothing,Jeans,West,Feb,1563.37,14.46,90
+TXN1678,Technology,Phones,South,Nov,1194.67,60.54,105
+TXN1679,Furniture,Chairs,South,Feb,849.47,218.25,106
+TXN1680,Technology,Phones,North,Nov,1347.88,245.39,98
+TXN1681,Office Supplies,Pens,West,Aug,1350.39,-100.13,33
+TXN1682,Furniture,Chairs,North,Jan,1724.35,393.01,98
+TXN1683,Technology,Phones,North,Mar,1946.32,-122.82,88
+TXN1684,Clothing,Shoes,East,Mar,1875.37,-116.08,87
+TXN1685,Technology,Accessories,West,Jan,1200.39,118.46,22
+TXN1686,Office Supplies,Paper,South,May,1439.56,212.99,65
+TXN1687,Technology,Phones,West,Nov,1333.51,210.98,48
+TXN1688,Furniture,Tables,North,May,1629.81,-291.21,56
+TXN1689,Technology,Accessories,East,Feb,1409.6,73.42,100
+TXN1690,Furniture,Bookcases,South,Jun,753.55,-137.05,117
+TXN1691,Clothing,Shoes,East,Apr,1562.51,-81.34,40
+TXN1692,Office Supplies,Pens,West,Feb,1199.93,205.79,36
+TXN1693,Office Supplies,Pens,North,Feb,1741.1,301.21,111
+TXN1694,Technology,Accessories,North,Nov,471.73,-91.97,75
+TXN1695,Furniture,Tables,East,Dec,848.89,168.04,43
+TXN1696,Furniture,Bookcases,West,Feb,1978.51,-98.29,16
+TXN1697,Clothing,Jeans,North,Aug,1580.07,321.46,76
+TXN1698,Technology,Accessories,North,Jan,1358.68,-58.87,107
+TXN1699,Office Supplies,Pens,West,Jan,55.5,-11.05,25
+TXN1700,Technology,Accessories,East,May,1500.54,-162.95,104
+TXN1701,Technology,Accessories,East,Mar,1598.35,72.91,15
+TXN1702,Office Supplies,Paper,West,Jun,438.74,-61.69,62
+TXN1703,Office Supplies,Pens,East,Aug,1670.03,217.48,29
+TXN1704,Clothing,Shoes,South,Jan,1349.13,261.74,108
+TXN1705,Technology,Phones,North,Aug,1617.05,63.35,106
+TXN1706,Clothing,Jeans,North,Jun,722.46,-143.06,82
+TXN1707,Clothing,Shirts,North,Nov,1774.76,-297.6,93
+TXN1708,Furniture,Tables,East,Sep,1652.24,-250.16,61
+TXN1709,Clothing,Jeans,East,Sep,84.85,10.5,110
+TXN1710,Clothing,Shoes,West,May,1274.25,217.7,94
+TXN1711,Furniture,Chairs,West,Sep,185.41,35.47,32
+TXN1712,Office Supplies,Pens,West,Jan,406.16,63.97,13
+TXN1713,Office Supplies,Paper,East,Jan,237.29,12.14,76
+TXN1714,Technology,Phones,South,May,1317.39,-83.56,65
+TXN1715,Office Supplies,Paper,East,Feb,293.14,-2.1,48
+TXN1716,Office Supplies,Binders,West,Sep,1842.44,-302.38,56
+TXN1717,Office Supplies,Binders,West,Sep,182.69,30.98,37
+TXN1718,Furniture,Bookcases,West,Nov,582.09,-87.74,14
+TXN1719,Clothing,Shirts,North,Oct,1813.61,386.4,48
+TXN1720,Furniture,Bookcases,South,Jun,257.1,9.92,115
+TXN1721,Office Supplies,Paper,East,Nov,1524.81,57.97,104
+TXN1722,Office Supplies,Pens,South,Oct,1414.49,-97.28,100
+TXN1723,Clothing,Shirts,East,Dec,832.14,82.37,75
+TXN1724,Technology,Accessories,North,Jun,1277.66,209.46,61
+TXN1725,Office Supplies,Pens,North,Nov,1373.46,295.51,92
+TXN1726,Technology,Accessories,South,Jul,353.92,0.15,78
+TXN1727,Office Supplies,Binders,South,Nov,1475.68,316.74,68
+TXN1728,Technology,Phones,East,Jun,1253.36,367.94,75
+TXN1729,Furniture,Bookcases,West,Mar,508.97,150.09,46
+TXN1730,Furniture,Chairs,East,May,1667.59,67.48,45
+TXN1731,Clothing,Shirts,South,Jul,766.89,-11.65,43
+TXN1732,Furniture,Chairs,South,Apr,1376.64,169.79,59
+TXN1733,Clothing,Shoes,South,Jul,1652.53,176.44,15
+TXN1734,Office Supplies,Paper,East,Feb,1386.58,111.08,58
+TXN1735,Office Supplies,Binders,West,Aug,718.87,-128.14,82
+TXN1736,Office Supplies,Pens,East,Aug,1234.88,295.42,119
+TXN1737,Office Supplies,Paper,North,Jan,1984.06,560.36,78
+TXN1738,Office Supplies,Paper,North,Apr,758.7,-90.62,51
+TXN1739,Technology,Phones,West,Mar,1179.49,201.36,83
+TXN1740,Clothing,Shoes,East,Apr,1119.19,-181.2,15
+TXN1741,Technology,Phones,West,Dec,1506.27,323.51,113
+TXN1742,Technology,Computers,North,May,318.81,-2.42,29
+TXN1743,Clothing,Jeans,South,Mar,484.07,-23.91,28
+TXN1744,Clothing,Shirts,North,Mar,94.66,6.0,26
+TXN1745,Technology,Phones,North,Feb,1250.9,275.31,32
+TXN1746,Furniture,Bookcases,North,Jul,694.63,103.58,46
+TXN1747,Office Supplies,Pens,West,Jan,1047.28,-143.71,91
+TXN1748,Technology,Accessories,West,Jan,123.46,16.68,66
+TXN1749,Clothing,Shoes,North,Nov,1149.61,249.22,24
+TXN1750,Technology,Phones,East,Jul,51.85,4.54,19
+TXN1751,Furniture,Bookcases,North,May,681.67,136.24,35
+TXN1752,Office Supplies,Binders,North,Mar,607.94,-52.14,13
+TXN1753,Technology,Phones,North,Apr,1905.26,7.8,41
+TXN1754,Clothing,Jeans,West,Feb,1989.03,498.68,24
+TXN1755,Clothing,Shoes,East,May,1296.03,-172.71,46
+TXN1756,Technology,Computers,North,Jun,895.05,235.92,95
+TXN1757,Clothing,Shoes,East,Mar,394.73,49.06,47
+TXN1758,Office Supplies,Pens,South,Jan,1463.93,-196.75,84
+TXN1759,Office Supplies,Binders,West,Mar,1736.98,-328.41,30
+TXN1760,Clothing,Shirts,East,Sep,1295.36,271.7,92
+TXN1761,Technology,Computers,South,Jan,625.51,114.48,38
+TXN1762,Furniture,Bookcases,South,Feb,162.19,40.43,27
+TXN1763,Technology,Phones,South,Dec,1775.06,-299.02,22
+TXN1764,Furniture,Bookcases,South,Aug,1700.85,-125.0,82
+TXN1765,Technology,Accessories,East,Sep,1554.1,-181.92,102
+TXN1766,Clothing,Shirts,East,Nov,1228.98,191.02,29
+TXN1767,Furniture,Bookcases,East,Nov,667.07,163.55,46
+TXN1768,Furniture,Bookcases,East,Jan,1760.53,-111.22,72
+TXN1769,Clothing,Jeans,North,Apr,1362.33,189.12,26
+TXN1770,Furniture,Tables,North,Aug,553.28,123.44,109
+TXN1771,Clothing,Shirts,North,Aug,1514.72,-280.63,93
+TXN1772,Clothing,Shoes,West,Feb,1462.04,-290.36,105
+TXN1773,Technology,Accessories,East,Jun,1161.69,43.1,43
+TXN1774,Office Supplies,Paper,North,Jan,1625.24,53.89,51
+TXN1775,Clothing,Shoes,North,Feb,1366.77,285.21,81
+TXN1776,Clothing,Shirts,South,Jan,1515.75,-250.93,23
+TXN1777,Clothing,Shirts,East,Nov,108.7,-3.06,115
+TXN1778,Clothing,Jeans,West,Dec,1708.02,313.37,104
+TXN1779,Technology,Computers,South,Jan,1409.22,-160.5,54
+TXN1780,Technology,Phones,North,Jun,747.86,-134.38,108
+TXN1781,Office Supplies,Pens,North,Jan,1656.59,-181.75,97
+TXN1782,Office Supplies,Paper,South,Aug,1329.97,287.42,75
+TXN1783,Technology,Accessories,South,Mar,1141.24,273.85,67
+TXN1784,Technology,Phones,East,Oct,1427.1,7.47,41
+TXN1785,Technology,Computers,North,Dec,1364.79,59.73,93
+TXN1786,Clothing,Shirts,West,Aug,1655.06,-26.42,92
+TXN1787,Clothing,Shirts,West,Dec,338.23,-31.24,101
+TXN1788,Technology,Computers,West,Feb,787.31,4.88,72
+TXN1789,Clothing,Jeans,East,Jul,219.43,-19.81,49
+TXN1790,Technology,Phones,North,May,625.52,7.77,58
+TXN1791,Clothing,Jeans,South,Jun,1711.06,416.88,44
+TXN1792,Office Supplies,Pens,East,May,467.43,74.53,61
+TXN1793,Clothing,Shoes,South,Jan,311.62,-45.29,16
+TXN1794,Technology,Phones,North,Dec,471.84,23.01,44
+TXN1795,Clothing,Jeans,East,Jun,728.07,127.17,112
+TXN1796,Furniture,Bookcases,West,Oct,272.06,20.89,101
+TXN1797,Technology,Accessories,West,Apr,1979.52,-226.73,109
+TXN1798,Office Supplies,Pens,North,Jul,1565.21,-86.0,119
+TXN1799,Office Supplies,Binders,West,Oct,855.82,217.15,87
+TXN1800,Technology,Accessories,West,Mar,258.95,55.42,88
+TXN1801,Office Supplies,Binders,South,Nov,1412.29,-165.58,29
+TXN1802,Clothing,Shoes,East,Feb,943.96,148.62,35
+TXN1803,Clothing,Shoes,North,Dec,1692.39,479.96,24
+TXN1804,Office Supplies,Paper,South,Nov,924.27,-122.63,114
+TXN1805,Technology,Phones,South,Oct,202.02,-36.04,11
+TXN1806,Clothing,Jeans,North,Oct,302.19,43.68,75
+TXN1807,Technology,Accessories,East,Jan,1039.89,23.33,95
+TXN1808,Technology,Phones,South,Mar,910.47,-38.99,77
+TXN1809,Office Supplies,Paper,South,Jul,1359.78,-145.01,108
+TXN1810,Technology,Phones,North,Nov,1805.29,-332.25,34
+TXN1811,Technology,Computers,East,Oct,128.31,35.88,65
+TXN1812,Office Supplies,Paper,West,Jun,422.77,89.1,76
+TXN1813,Technology,Computers,East,Jun,542.03,19.25,76
+TXN1814,Furniture,Bookcases,West,Oct,225.04,0.06,83
+TXN1815,Clothing,Jeans,West,Jul,1702.03,339.0,61
+TXN1816,Technology,Computers,South,Apr,1518.66,-264.19,16
+TXN1817,Furniture,Chairs,North,Aug,992.03,156.24,93
+TXN1818,Office Supplies,Binders,East,Oct,165.52,-8.91,61
+TXN1819,Furniture,Tables,North,Dec,1072.25,42.93,50
+TXN1820,Office Supplies,Pens,West,Oct,582.11,-103.88,105
+TXN1821,Technology,Phones,West,May,1589.92,-229.23,115
+TXN1822,Office Supplies,Paper,North,Feb,567.33,-35.97,70
+TXN1823,Office Supplies,Pens,East,Nov,756.44,59.0,59
+TXN1824,Office Supplies,Binders,North,Sep,927.66,268.84,111
+TXN1825,Furniture,Bookcases,West,May,1963.09,433.34,55
+TXN1826,Clothing,Jeans,West,Mar,418.5,-55.75,93
+TXN1827,Clothing,Shoes,North,Jan,794.58,106.13,75
+TXN1828,Office Supplies,Pens,South,Mar,1849.55,266.84,36
+TXN1829,Furniture,Chairs,North,Feb,143.98,-11.37,48
+TXN1830,Furniture,Tables,South,Jul,1378.94,56.82,11
+TXN1831,Technology,Accessories,East,Oct,1975.01,-117.96,73
+TXN1832,Clothing,Jeans,East,Dec,777.18,177.26,98
+TXN1833,Office Supplies,Paper,West,Apr,1696.1,70.91,93
+TXN1834,Technology,Phones,East,Jul,1588.02,-211.35,64
+TXN1835,Technology,Accessories,East,Jun,1512.36,350.4,66
+TXN1836,Clothing,Shirts,North,May,1677.68,-303.79,26
+TXN1837,Clothing,Jeans,North,Mar,528.64,143.08,18
+TXN1838,Office Supplies,Paper,North,Jul,1674.45,342.37,32
+TXN1839,Technology,Computers,East,Nov,1935.93,-1.17,115
+TXN1840,Clothing,Shirts,North,Nov,1162.57,-226.51,96
+TXN1841,Furniture,Bookcases,East,Oct,1943.66,374.38,92
+TXN1842,Furniture,Tables,West,Sep,1895.99,13.44,78
+TXN1843,Clothing,Jeans,South,Aug,1424.24,382.03,101
+TXN1844,Office Supplies,Pens,South,Dec,958.44,-174.41,47
+TXN1845,Office Supplies,Pens,South,Jul,835.05,-109.63,101
+TXN1846,Clothing,Shirts,North,Nov,310.34,14.55,108
+TXN1847,Technology,Phones,South,Feb,299.53,-36.98,112
+TXN1848,Technology,Computers,East,May,788.35,-22.07,54
+TXN1849,Clothing,Shirts,East,Oct,1910.55,-42.18,30
+TXN1850,Clothing,Shirts,North,Nov,1109.24,29.87,86
+TXN1851,Clothing,Shirts,South,May,669.68,-23.33,108
+TXN1852,Office Supplies,Binders,West,Jan,499.0,47.12,62
+TXN1853,Furniture,Tables,North,Apr,355.12,-6.12,69
+TXN1854,Clothing,Jeans,East,Oct,819.47,-124.44,71
+TXN1855,Office Supplies,Binders,West,Jul,85.98,-12.44,78
+TXN1856,Clothing,Shoes,East,Apr,1115.75,-11.63,87
+TXN1857,Furniture,Tables,South,Jan,488.92,25.05,45
+TXN1858,Office Supplies,Pens,West,Jun,1909.42,479.19,18
+TXN1859,Furniture,Chairs,North,Jan,184.29,7.79,65
+TXN1860,Clothing,Shoes,West,Aug,746.56,39.67,104
+TXN1861,Office Supplies,Pens,East,Feb,574.76,148.58,79
+TXN1862,Clothing,Shoes,South,Dec,1673.55,-13.35,105
+TXN1863,Office Supplies,Paper,North,Sep,1555.66,-255.69,24
+TXN1864,Clothing,Jeans,East,Feb,1513.03,285.15,80
+TXN1865,Furniture,Bookcases,North,May,1698.37,204.68,52
+TXN1866,Furniture,Chairs,West,Jul,241.21,72.2,11
+TXN1867,Furniture,Chairs,East,Jul,1561.16,349.68,27
+TXN1868,Clothing,Shoes,West,May,1211.01,157.09,116
+TXN1869,Office Supplies,Paper,East,Sep,1457.93,4.38,26
+TXN1870,Office Supplies,Binders,West,Nov,1001.81,-167.26,48
+TXN1871,Office Supplies,Binders,South,Jul,451.13,-57.44,116
+TXN1872,Technology,Computers,North,Sep,1991.72,-382.18,73
+TXN1873,Office Supplies,Paper,North,May,1860.87,-95.94,97
+TXN1874,Clothing,Shirts,North,Feb,1628.81,177.27,30
+TXN1875,Technology,Computers,East,Feb,1739.45,45.61,51
+TXN1876,Office Supplies,Binders,South,Feb,268.37,73.13,51
+TXN1877,Clothing,Jeans,East,Jan,579.73,22.52,55
+TXN1878,Clothing,Shirts,West,Dec,276.85,2.91,65
+TXN1879,Furniture,Chairs,South,Mar,1580.38,-251.2,102
+TXN1880,Furniture,Chairs,North,May,860.13,-32.04,77
+TXN1881,Technology,Accessories,East,Jan,1920.53,449.55,92
+TXN1882,Office Supplies,Binders,West,Dec,1937.03,-307.96,108
+TXN1883,Furniture,Tables,East,Jul,1842.22,519.49,56
+TXN1884,Furniture,Bookcases,South,Sep,162.56,22.72,57
+TXN1885,Technology,Accessories,South,May,604.02,-112.58,38
+TXN1886,Furniture,Bookcases,East,Sep,105.54,-14.3,49
+TXN1887,Office Supplies,Paper,East,Feb,865.43,-2.45,103
+TXN1888,Technology,Computers,North,Oct,1263.73,-214.4,104
+TXN1889,Office Supplies,Paper,East,May,1492.4,372.21,111
+TXN1890,Technology,Phones,East,Jan,1758.43,-346.85,112
+TXN1891,Office Supplies,Binders,East,Feb,1547.37,19.71,26
+TXN1892,Furniture,Bookcases,West,May,990.28,-57.76,99
+TXN1893,Clothing,Shoes,South,Dec,1127.95,21.43,108
+TXN1894,Clothing,Shirts,West,Jan,698.56,-92.67,63
+TXN1895,Technology,Accessories,South,Sep,449.01,43.8,108
+TXN1896,Clothing,Shirts,West,Apr,1655.85,308.32,104
+TXN1897,Technology,Accessories,West,Aug,1982.37,106.06,94
+TXN1898,Technology,Accessories,East,Jan,188.79,-1.77,18
+TXN1899,Clothing,Shirts,North,Feb,1243.92,-138.77,74
+TXN1900,Technology,Computers,North,Dec,1582.14,-48.26,99
+TXN1901,Clothing,Shirts,East,Jul,1039.29,271.41,86
+TXN1902,Furniture,Chairs,South,May,1407.1,188.95,62
+TXN1903,Office Supplies,Paper,North,Aug,1910.1,491.82,43
+TXN1904,Office Supplies,Pens,North,Aug,1897.46,-218.31,46
+TXN1905,Technology,Computers,North,Sep,1525.6,-41.19,29
+TXN1906,Technology,Computers,East,Jul,1323.48,244.03,55
+TXN1907,Clothing,Shirts,North,Jun,1997.88,455.72,114
+TXN1908,Clothing,Shoes,East,Aug,1736.01,495.27,46
+TXN1909,Technology,Accessories,North,Sep,477.82,36.5,20
+TXN1910,Furniture,Chairs,South,Jul,630.6,45.83,83
+TXN1911,Furniture,Tables,South,Apr,1221.37,267.84,101
+TXN1912,Office Supplies,Paper,East,Jul,950.2,269.72,89
+TXN1913,Furniture,Bookcases,South,Jul,1729.93,-157.77,46
+TXN1914,Technology,Phones,South,Nov,1725.81,122.28,79
+TXN1915,Furniture,Bookcases,North,Feb,1310.12,-254.16,58
+TXN1916,Technology,Accessories,West,Oct,1390.21,-59.48,98
+TXN1917,Technology,Accessories,North,Oct,1770.83,-53.04,83
+TXN1918,Furniture,Chairs,South,May,1286.44,-151.71,62
+TXN1919,Technology,Accessories,South,May,1717.84,36.53,25
+TXN1920,Technology,Accessories,West,Feb,1929.04,282.36,87
+TXN1921,Furniture,Chairs,South,Aug,385.17,108.98,55
+TXN1922,Furniture,Tables,East,Apr,1805.61,409.62,44
+TXN1923,Furniture,Tables,West,Aug,309.79,24.53,43
+TXN1924,Clothing,Jeans,South,Jul,116.78,11.47,120
+TXN1925,Clothing,Jeans,West,Dec,1075.68,-200.6,68
+TXN1926,Clothing,Shoes,South,Nov,1029.54,-193.35,45
+TXN1927,Furniture,Tables,South,Nov,286.75,52.21,70
+TXN1928,Office Supplies,Binders,North,Jan,1250.54,150.46,77
+TXN1929,Clothing,Shoes,East,May,1073.83,-18.49,58
+TXN1930,Clothing,Shoes,North,Dec,1871.77,51.46,117
+TXN1931,Technology,Computers,East,Aug,539.59,58.29,116
+TXN1932,Clothing,Shirts,West,Nov,947.38,275.74,93
+TXN1933,Office Supplies,Binders,West,Feb,1475.55,429.12,111
+TXN1934,Clothing,Shirts,West,Jul,1569.08,255.53,53
+TXN1935,Office Supplies,Pens,East,Feb,1216.1,324.97,47
+TXN1936,Clothing,Shoes,North,Sep,613.97,-28.5,65
+TXN1937,Clothing,Jeans,North,Jan,1792.37,-336.67,84
+TXN1938,Furniture,Chairs,West,Jun,1763.28,437.08,80
+TXN1939,Technology,Computers,East,Oct,931.88,-145.11,24
+TXN1940,Furniture,Tables,South,Mar,636.67,40.49,59
+TXN1941,Furniture,Chairs,North,May,1747.25,468.3,112
+TXN1942,Office Supplies,Binders,East,Jan,796.55,190.35,96
+TXN1943,Furniture,Bookcases,East,Sep,1615.89,286.36,82
+TXN1944,Furniture,Tables,East,Oct,180.82,27.87,75
+TXN1945,Technology,Computers,South,Nov,163.34,-14.33,11
+TXN1946,Office Supplies,Paper,West,Jul,51.18,5.68,86
+TXN1947,Office Supplies,Pens,West,Jul,68.63,-10.81,51
+TXN1948,Furniture,Tables,South,Sep,1352.61,318.35,67
+TXN1949,Office Supplies,Paper,East,Jan,1890.61,462.6,38
+TXN1950,Office Supplies,Paper,South,Jul,1340.77,-113.9,73
+TXN1951,Clothing,Shirts,East,Oct,664.08,-43.83,17
+TXN1952,Clothing,Shirts,South,Jan,562.76,-61.79,112
+TXN1953,Furniture,Tables,East,Dec,1190.29,285.43,114
+TXN1954,Technology,Computers,East,Mar,97.09,20.36,45
+TXN1955,Furniture,Tables,South,Sep,484.31,48.82,72
+TXN1956,Clothing,Jeans,South,Sep,640.62,-43.98,63
+TXN1957,Clothing,Shirts,North,Mar,1623.95,-137.71,47
+TXN1958,Clothing,Shirts,South,Aug,850.2,70.5,63
+TXN1959,Clothing,Jeans,North,Apr,505.46,99.13,22
+TXN1960,Technology,Accessories,South,Jun,1433.05,99.63,14
+TXN1961,Clothing,Jeans,South,Jun,1814.76,471.6,103
+TXN1962,Technology,Phones,North,May,487.91,64.1,70
+TXN1963,Office Supplies,Pens,West,Nov,1670.59,448.74,69
+TXN1964,Clothing,Shirts,South,Dec,781.43,-0.49,47
+TXN1965,Office Supplies,Paper,South,Jun,511.62,93.6,60
+TXN1966,Clothing,Jeans,North,Mar,146.37,18.39,49
+TXN1967,Office Supplies,Pens,West,Feb,555.58,-14.18,42
+TXN1968,Technology,Phones,East,Apr,1892.51,-144.04,111
+TXN1969,Clothing,Shirts,East,Apr,803.4,74.59,86
+TXN1970,Clothing,Jeans,West,Jul,299.11,1.6,113
+TXN1971,Office Supplies,Binders,South,Mar,1818.7,449.93,110
+TXN1972,Furniture,Bookcases,East,May,1900.23,381.8,59
+TXN1973,Furniture,Chairs,East,Nov,1507.4,-110.38,94
+TXN1974,Furniture,Bookcases,South,May,1337.87,-181.45,103
+TXN1975,Furniture,Chairs,East,May,1492.11,-147.71,106
+TXN1976,Clothing,Jeans,North,Oct,1141.18,-116.69,44
+TXN1977,Technology,Computers,East,Sep,1239.16,232.87,35
+TXN1978,Furniture,Bookcases,East,Dec,1768.08,-216.9,23
+TXN1979,Technology,Accessories,East,Nov,394.59,102.13,81
+TXN1980,Clothing,Shoes,North,Jan,205.54,47.67,78
+TXN1981,Office Supplies,Paper,East,Mar,640.55,-26.34,15
+TXN1982,Furniture,Tables,North,Apr,575.89,149.35,119
+TXN1983,Clothing,Shoes,South,Sep,342.9,11.83,75
+TXN1984,Office Supplies,Binders,South,Oct,1081.62,-156.42,34
+TXN1985,Technology,Accessories,South,Jun,796.17,-43.35,38
+TXN1986,Office Supplies,Paper,North,Nov,1036.56,84.86,102
+TXN1987,Office Supplies,Pens,South,Sep,1498.88,344.25,111
+TXN1988,Clothing,Shoes,North,Jul,1961.48,-173.26,90
+TXN1989,Office Supplies,Pens,South,Dec,1608.74,362.4,52
+TXN1990,Furniture,Bookcases,East,Jun,1670.39,39.32,34
+TXN1991,Office Supplies,Pens,South,Oct,381.51,3.56,28
+TXN1992,Clothing,Jeans,South,Nov,1312.29,115.89,97
+TXN1993,Furniture,Bookcases,South,Oct,1950.58,55.61,26
+TXN1994,Furniture,Bookcases,East,Jul,767.07,187.71,78
+TXN1995,Office Supplies,Binders,West,Aug,188.97,41.71,78
+TXN1996,Office Supplies,Paper,East,Apr,1072.45,-95.11,119
+TXN1997,Office Supplies,Binders,East,Jan,905.64,43.84,117
+TXN1998,Clothing,Jeans,East,Mar,1955.05,-289.43,103
+TXN1999,Office Supplies,Binders,North,Oct,1723.33,430.58,31
+TXN2000,Clothing,Shirts,South,Nov,1519.35,188.16,32
